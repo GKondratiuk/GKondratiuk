@@ -1,5 +1,11 @@
 # 💫 Sobre Mi:
-Hola Soy Guillermo.<br><br>Soy estudiante de la UTN de San Rafael y del Cfp 6 en Caba. <br>Desde el año 2023 estoy incursionando en el mundo IT, aprendiendo <br>mis primeros lenguajes de programación.<br><br>Actualmente me encuentro estudiando redes, programación, y realizo <br>trabajos como pasante en una empresa desarrollando  <br>pequeñas herramientas de trabajo, realizadas en python con pyside6 y django. 
+Hola Soy Guillermo.
+<br>
+Soy estudiante de la UTN de San Rafael y del Cfp 6 en Caba. Desde el año 2023 estoy incursionando en el mundo IT, aprendiendo mis primeros lenguajes de programación.
+<br>
+Actualmente me encuentro estudiando redes, programación, y realizo trabajos como pasante en una empresa desarrollando  
+<br>
+pequeñas herramientas de trabajo, realizadas en python con pyside6 y django. 
 
 
 ## 🌐 Socials:
