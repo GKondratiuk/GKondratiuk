@@ -1,4 +1,3 @@
-# 💫 Sobre Mi:
 <h1>Hola Soy Guillermo.</h1>
 <p>
 <br>
