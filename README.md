@@ -1,6 +1,8 @@
+<h1>Bienvenidos a mi perfil</h1>
+<br>
 <img src="Texto.png" width="1000" height="250">
 <br>
-<h1>Hola Soy Guillermo.</h1>
+<h1>Soy Guillermo.</h1>
 <br>
 <h3>
 Soy estudiante de la UTN de San Rafael y del Cfp 6 en Caba. Desde el año 2023 estoy incursionando en el mundo IT, aprendiendo mis primeros lenguajes de programación.
