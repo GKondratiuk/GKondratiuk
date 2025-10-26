@@ -20,6 +20,12 @@ Caluladora de prestamos:
 <a href="https://github.com/GKondratiuk/simulador_prestamos">
 <img src="calculador_prestamo.png" width="250" height="250">
 </a>
+<br><br>
+Gestor de inventario:
+<br>
+<a href="https://github.com/GKondratiuk/django_crud">
+<img src="inventario_login.png" width="250" height="250">
+</a>
 </h3>
 <br><br>
 
