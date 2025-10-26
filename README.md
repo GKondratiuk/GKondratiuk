@@ -10,11 +10,13 @@ Soy estudiante de la UTN de San Rafael y del Cfp 6 en Caba. Desde el año 2023 e
 Actualmente me encuentro estudiando redes, programación, ciberseguridad y realizo trabajos como pasante en una empresa desarrollando pequeñas herramientas de trabajo, realizadas en python con pyside6 y django que dejaré aqui abajo.
 <br><br>
 Caluladora de reintegros:
+<br>
 <a href="https://github.com/GKondratiuk/buscador_reintegros">
 <img src="calculador_reintegro.png" width="250" height="250">
 </a>
 <br><br>
 Caluladora de prestamos:
+<br>
 <a href="https://github.com/GKondratiuk/simulador_prestamos">
 <img src="calculador_prestamo.png" width="250" height="250">
 </a>
