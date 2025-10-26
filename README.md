@@ -24,7 +24,7 @@ Caluladora de prestamos:
 Gestor de inventario:
 <br>
 <a href="https://github.com/GKondratiuk/django_crud">
-<img src="/inventario_login.png" width="250" height="250">
+<img src="/inventario_login.png" width="250" height="400">
 </a>
 </h3>
 <br><br>
