@@ -10,11 +10,16 @@ Soy estudiante de la UTN de San Rafael y del Cfp 6 en Caba. Desde el año 2023 e
 Actualmente me encuentro estudiando redes, programación, ciberseguridad y realizo trabajos como pasante en una empresa desarrollando pequeñas herramientas de trabajo, realizadas en python con pyside6 y django que dejaré aqui abajo.
 <br><br>
 Caluladora de reintegros:
+<a href="https://github.com/GKondratiuk/buscador_reintegros">
 <img src="calculador_reintegro.png" width="250" height="250">
+</a>
 <br><br>
 Caluladora de prestamos:
+<a href="https://github.com/GKondratiuk/simulador_prestamos">
 <img src="calculador_prestamo.png" width="250" height="250">
+</a>
 </h3>
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gkotiuk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kondra.guille@gmail.com) 
