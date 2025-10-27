@@ -1,6 +1,6 @@
 <h1>Bienvenidos a mi perfil</h1>
 <br>
-<img src="/Texto.png" width="1000" height="250">
+<img src="https://i.imgur.com/XFTSuU1.png" width="1000" height="250">
 <br>
 <h1>Soy Guillermo.</h1>
 <br>
@@ -12,19 +12,19 @@ Actualmente me encuentro estudiando redes, programación, ciberseguridad y reali
 Caluladora de reintegros:
 <br>
 <a href="https://github.com/GKondratiuk/buscador_reintegros">
-<img src="calculador_reintegro.png" width="250" height="250">
+<img src="https://i.imgur.com/4xHSzlM.png" width="250" height="250">
 </a>
 <br><br>
 Caluladora de prestamos:
 <br>
 <a href="https://github.com/GKondratiuk/simulador_prestamos">
-<img src="/calculador_prestamo.png" width="250" height="250">
+<img src="https://i.imgur.com/Hml94eI.png" width="250" height="250">
 </a>
 <br><br>
 Gestor de inventario:
 <br>
 <a href="https://github.com/GKondratiuk/django_crud">
-<img src="/inventario_login.png" width="250" height="400">
+<img src="https://i.imgur.com/eJeu6AY.png" width="250" height="400">
 </a>
 </h3>
 <br><br>
