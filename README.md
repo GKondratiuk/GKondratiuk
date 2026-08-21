@@ -5,9 +5,7 @@
 <h1>Guillermo.</h1>
 <br>
 <h3>
-Soy estudiante de la UTN de San Rafael y del Cfp 6 en Caba. Desde el año 2023 estoy incursionando en el mundo IT, aprendiendo mis primeros lenguajes de programación.
-<br><br>
-Actualmente me encuentro estudiando redes, programación, ciberseguridad y realizo trabajos como pasante en una empresa desarrollando pequeñas herramientas de trabajo, realizadas en python con pyside6 y django que dejaré aqui abajo.
+Estudiante de Ingeniería en Sistemas.
 <br><br>
 Caluladora de reintegros:
 <br>
